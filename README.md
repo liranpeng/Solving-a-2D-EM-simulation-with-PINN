@@ -95,7 +95,9 @@ You can tune the following in each notebook:
 
 ## 📚 Reference
 
-The code is inspired by Helmholtz equation PINN formulations and uses the **SIREN** architecture:  
+The code is inspired by Helmholtz equation PINN formulations 
+[Song2022 - A versatile framework to solve the Helmholtz equation using physics-informed neural networks](https://github.com/songc0a/PINN-Helmholtz-solver-adaptive-sine/tree/main)
+and uses the **SIREN** architecture:  
 [Sitzmann et al., 2020 – Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
 
 ---
